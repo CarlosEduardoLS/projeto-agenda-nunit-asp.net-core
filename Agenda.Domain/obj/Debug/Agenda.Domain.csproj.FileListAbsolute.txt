@@ -1,0 +1,5 @@
+C:\Users\Carlos.Eduardo\Documents\Agenda\Agenda.Domain\bin\Debug\Agenda.Domain.dll
+C:\Users\Carlos.Eduardo\Documents\Agenda\Agenda.Domain\bin\Debug\Agenda.Domain.pdb
+C:\Users\Carlos.Eduardo\Documents\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos.Eduardo\Documents\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.dll
+C:\Users\Carlos.Eduardo\Documents\Agenda\Agenda.Domain\obj\Debug\Agenda.Domain.pdb
